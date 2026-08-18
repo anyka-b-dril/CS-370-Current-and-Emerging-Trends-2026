@@ -15,6 +15,6 @@ Students explore advanced topics in CS, specifically Artificial Intelligence (AI
     <p>Answer</p>
     <li><b>What are my ethical responsibilities to the end user and the organization?</b></li>
     <br>
-    <p>Answer</p>
+    <p>My main ethical responsibility is to protect user privacy and safety. To the user, this means I will uphold fairness, transparency, privacy, safety, and abide by user consent. Not only should users be informed with how systems I create may collect, use, and process personal data, I must take accountability for any mistakes, failures, or harm, my model makes. This also means I must ensure that the organization uses artificial intelligence fairly and legally. Models made for an organization must follow government laws and industry rules regarding data and technology and be tested thoroughly to avoid harm, reputation damage, and financial loss.</p>
   </ul>
 </ul>
