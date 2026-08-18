@@ -9,7 +9,7 @@ Students explore advanced topics in CS, specifically Artificial Intelligence (AI
   <ul>
     <li><b>What do computer scientists do and why does it matter?</b></li>
     <br>
-    <p>Answer</p>
+    <p>Computer scientists, in the field of machine learning, develop, build, and advance algorithms with statistics and linear algebra to find hidden patterns in raw data, train models, supervise and test intelligent models, and build AI supporting infrastructure. Computer scientists figure out how to make computing systems faster, safer, and more energy-efficient to handle heavy AI workloads. With the help of artificial intelligence, computer scientists drive technology to modern innovation, such as automating repetitive and complex tasks, power practical tools, and medical imaging analysis. </p>
     <li><b>How do I approach a problem as a computer scientist?</b></li>
     <br>
     <p>Answer</p>
